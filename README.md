@@ -2,12 +2,12 @@
 
 **Builder · Senior Software Engineer · Tech Lead**
 
-7+ years of shipping products to millions of users. I've worked across mobile apps, web platforms, fintech systems, and developer tooling — I enjoy solving problems at the intersection of great developer experience and scalable infrastructure.
+8+ years of shipping products to millions of users. I've worked across mobile apps, web platforms, fintech systems, and developer tooling — I enjoy solving problems at the intersection of great developer experience and scalable infrastructure.
 
 ## 🚀 What I Do
 
 - **Product Engineering** → Mobile and web applications scaled to millions of users
-- **Developer Platforms** → Internal frameworks and tooling adopted by hundreds of engineers
+- **Developer Platforms** → Internal frameworks and tooling adopted by thousands of engineers
 - **AI Integration** → Bringing LLMs, agents, and automation into existing systems
 
 ## 🔧 Open Source
