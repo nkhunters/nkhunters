@@ -65,26 +65,26 @@
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| IDEN-01 | Pending | Pending |
-| IDEN-02 | Pending | Pending |
-| TECH-01 | Pending | Pending |
-| TECH-02 | Pending | Pending |
-| OSS-01 | Pending | Pending |
-| OSS-02 | Pending | Pending |
-| STAT-01 | Pending | Pending |
-| STAT-02 | Pending | Pending |
-| STAT-03 | Pending | Pending |
-| STAT-04 | Pending | Pending |
-| LAYT-01 | Pending | Pending |
-| LAYT-02 | Pending | Pending |
-| LAYT-03 | Pending | Pending |
-| LAYT-04 | Pending | Pending |
+| IDEN-01 | Phase 1 | Pending |
+| IDEN-02 | Phase 1 | Pending |
+| TECH-01 | Phase 2 | Pending |
+| TECH-02 | Phase 2 | Pending |
+| OSS-01 | Phase 2 | Pending |
+| OSS-02 | Phase 2 | Pending |
+| STAT-01 | Phase 3 | Pending |
+| STAT-02 | Phase 3 | Pending |
+| STAT-03 | Phase 3 | Pending |
+| STAT-04 | Phase 3 | Pending |
+| LAYT-01 | Phase 3 | Pending |
+| LAYT-02 | Phase 3 | Pending |
+| LAYT-03 | Phase 3 | Pending |
+| LAYT-04 | Phase 3 | Pending |
 
 **Coverage:**
 - v1 requirements: 14 total
-- Mapped to phases: 0
-- Unmapped: 14 ⚠️
+- Mapped to phases: 14
+- Unmapped: 0 ✓
 
 ---
 *Requirements defined: 2026-04-14*
-*Last updated: 2026-04-14 after initial definition*
+*Last updated: 2026-04-14 after roadmap creation*
