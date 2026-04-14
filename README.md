@@ -1,21 +1,46 @@
-# Niraj Kumar
+# Hey, I'm Niraj 👋
 
-I'm a builder and software engineer with 7+ years of experience shipping products to millions of users. I've worked across mobile apps, web platforms, fintech systems, and developer tooling — and I enjoy solving problems that sit at the intersection of great developer experience and scalable infrastructure.
+**Builder · Senior Software Engineer · Tech Lead**
 
-## Core Competencies
+7+ years of shipping products to millions of users. I've worked across mobile apps, web platforms, fintech systems, and developer tooling — I enjoy solving problems at the intersection of great developer experience and scalable infrastructure.
 
-My expertise spans three areas: product engineering (building mobile and web applications scaled to millions of users), developer platforms (creating internal frameworks and tooling adopted by hundreds of engineers), and AI integration (bringing LLMs, agents, and automation into existing systems to make teams more productive).
+## 🚀 What I Do
 
-## Notable Work
+- **Product Engineering** → Mobile and web applications scaled to millions of users
+- **Developer Platforms** → Internal frameworks and tooling adopted by hundreds of engineers
+- **AI Integration** → Bringing LLMs, agents, and automation into existing systems
 
-On the open source side, I've contributed to [LangChain.js](https://github.com/langchain-ai/langchainjs), [LangChain Docs](https://github.com/langchain-ai/langchain), and [react-chrono](https://github.com/prabhuignoto/react-chrono) with merged pull requests.
+## 🔧 Open Source
 
-## Technical Foundation
+Contributed with merged pull requests to:
+- [LangChain.js](https://github.com/langchain-ai/langchainjs) — JavaScript/TypeScript LLM framework
+- [LangChain Docs](https://github.com/langchain-ai/langchain) — Documentation improvements
+- [react-chrono](https://github.com/prabhuignoto/react-chrono) — Timeline component for React
 
-I work primarily with JavaScript, TypeScript, and Python. On the frontend, React and React Native; on the backend, Node.js with databases like MongoDB, PostgreSQL, and Redis. For infrastructure, AWS, Docker, and Kubernetes. I also work with LangChain and LLM tooling for AI integration.
+## 🛠 Tech Stack
 
-## Certifications
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 
-AWS Certified Solutions Architect — Professional.
+## 📜 Certifications
 
-**Contact:** nirajk77777@gmail.com | [LinkedIn](https://linkedin.com/in/nirajk77777) | [X](https://x.com/nirajk777)
+**AWS** → Certified Solutions Architect — Professional
+
+## 📫 Let's Connect
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nirajk77777@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nirajk77777)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nirajk777)
