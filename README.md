@@ -1,6 +1,6 @@
 # Hey, I'm Niraj 👋
 
-**Builder · Senior Software Engineer · Tech Lead**
+**Builder · Senior Software Engineer
 
 8+ years of shipping products to millions of users. I've worked across mobile apps, web platforms, fintech systems, and developer tooling — I enjoy solving problems at the intersection of great developer experience and scalable infrastructure.
 
