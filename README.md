@@ -13,9 +13,9 @@
 ## 🔧 Open Source
 
 Contributed with merged pull requests to:
-- [LangChain.js](https://github.com/langchain-ai/langchainjs/pull/9265) — Fix for agent ToolMessage handling in structured output
-- [LangChain Docs](https://github.com/langchain-ai/docs/pull/1157) — API parameter fix
-- [react-chrono](https://github.com/prabhuignoto/react-chrono/pull/147) — Custom theme support
+- [LangChain.js](https://github.com/langchain-ai/langchainjs/pull/9265) — JavaScript/TypeScript LLM framework
+- [LangChain Docs](https://github.com/langchain-ai/docs/pull/1157) — Documentation improvements
+- [react-chrono](https://github.com/prabhuignoto/react-chrono/pull/147) — Timeline component for React
 
 ## 🛠 Tech Stack
 
